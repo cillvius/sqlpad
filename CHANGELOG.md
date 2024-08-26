@@ -1,5 +1,51 @@
 # Changelog
 
+## [7.5.0] - 2024-08-25
+
+- Node 20 or later required
+- Update dependencies
+
+## [7.4.4] - 2024-07-21
+
+- Update dependencies
+
+## [7.4.3] - 2024-05-12
+
+- Update dependencies
+
+## [7.4.2] - 2024-04-24
+
+- Update dependencies
+
+## [7.4.1] - 2024-02-24
+
+- Update dependencies
+
+## [7.4.0] - 2024-02-03
+
+- Node 18 required
+- Show incomplete on truncated response from BigQuery (#1224)
+- Update dependencies
+
+## [7.3.1] - 2024-01-30
+
+- Revert odbc implementation to CJS
+
+## [7.3.0] - 2024-01-27
+
+- Restore arm64 container build
+- Convert server code to ESM
+
+## [7.2.0] - 2023-12-23
+
+- Add extra result display formats and copy-to-clipboard (#1209)
+- Fix helm chart postgres dependency (#1212)
+- Fix BigQuery indexes schema panel (#1214)
+
+## [7.1.3] - 2023-10-29
+
+- Update dependencies
+
 ## [7.1.2] - 2023-08-16
 
 - Revert dockerfile node version to node 16
