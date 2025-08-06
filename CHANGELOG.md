@@ -1,5 +1,30 @@
 # Changelog
 
+## [7.5.6] - 2025-07-26
+
+- Update Google bigquery driver
+
+## [7.5.5] - 2025-07-25
+
+- Update dependencies (minor and patch)
+
+## [7.5.4] - 2025-06-09
+
+- Update dependencies
+
+## [7.5.3] - 2025-03-23
+
+- Update dependencies
+
+## [7.5.2] - 2024-12-19
+
+- Update dependencies
+
+## [7.5.1] - 2024-09-31
+
+- Update ClickHouse driver: ClickHouse 23.3 or later supported
+- Update dependencies
+
 ## [7.5.0] - 2024-08-25
 
 - Node 20 or later required
